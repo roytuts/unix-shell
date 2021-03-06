@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/printing-pyramid-with-stars-in-unix-shell-programming/
