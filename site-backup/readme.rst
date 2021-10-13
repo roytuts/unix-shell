@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/cron-job-shell-script-to-auto-backup-web-site-files/
