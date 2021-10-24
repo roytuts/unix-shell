@@ -1,0 +1,1 @@
+TO understand thoroughly follow the tutorial https://roytuts.com/auto-delete-files-using-shell-script-cron-job/
